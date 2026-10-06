@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated sample/document files
+langchian_intro.txt
+
+# FAISS / local vector stores
+faiss_index/
+vectorstore/
+*.faiss
+*.pkl
+
+# Hugging Face / model caches
+.cache/
+huggingface_cache/
+transformers_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.env

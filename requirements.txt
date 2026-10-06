@@ -1,0 +1,18 @@
+# Core RAG / LangChain
+langchain
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-classic
+
+# Vector database
+faiss-cpu
+
+# Hugging Face / ML
+transformers
+sentence-transformers
+torch
+
+# Notebook
+jupyter
+ipykernel

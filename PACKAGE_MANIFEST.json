@@ -1,0 +1,17 @@
+{
+  "project": "RAG-with-LangChain-FAISS-Qwen",
+  "source_notebook": "RAG_PipeLines.ipynb",
+  "author": "Abdullah Shaheer",
+  "generated_on": "2026-10-07",
+  "files": [
+    ".gitignore",
+    "ARCHITECTURE.md",
+    "LICENSE",
+    "PROJECT_REPORT.docx",
+    "PROJECT_SUMMARY.md",
+    "RAG_PipeLines.ipynb",
+    "README.md",
+    "SETUP.md",
+    "requirements.txt"
+  ]
+}
