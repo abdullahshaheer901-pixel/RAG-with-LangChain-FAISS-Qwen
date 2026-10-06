@@ -1,4 +1,4 @@
-# 🤖 RAG with LangChain, FAISS & Qwen
+#  RAG with LangChain, FAISS & Qwen
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-RAG-green?style=flat-square)
